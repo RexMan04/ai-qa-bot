@@ -1,0 +1,15 @@
+# Byte-compiled / virtual-env stuff
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+# Poetry & pip
+poetry.lock
+# VSCode / PyCharm
+.vscode/
+.idea/
+# OS cruft
+.DS_Store
+Thumbs.db
